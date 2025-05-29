@@ -1,5 +1,5 @@
 ## readme-profile
-收集一些可用于github profile的项目，便于自己更换与查找。
+收集一些可用于 profile 的项目，便于自己更换与查找。
 
 ---
 
