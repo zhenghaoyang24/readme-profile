@@ -18,7 +18,7 @@
 
 ---
 
-### [skills-icons](https://github.com/syvixor/skills-icons) 图标（更新块）
+### [skills-icons](https://github.com/syvixor/skills-icons) 图标（更新快）
 ![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
 
 ---
