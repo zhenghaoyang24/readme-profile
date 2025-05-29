@@ -5,9 +5,9 @@
 
 ### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 统计卡片
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&theme=gradient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhenghaoyang24&repo=readme-profile)](https://github.com/zhenghaoyang24/readme-profile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&theme=transparent&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhenghaoyang24&repo=readme-profile&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
