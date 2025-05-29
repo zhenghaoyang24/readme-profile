@@ -12,7 +12,7 @@
 
 ---
 
-### [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) 打卡效果
+### [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) 打字效果
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm+Zheng+Haoyang.%F0%9F%91%8F;You+can+call+me+Hoey.%F0%9F%98%80)](https://git.io/typing-svg)
 
@@ -25,4 +25,6 @@
 
 ### [skill-icons](https://github.com/tandpfun/skill-icons) 图标（较长时间未更新）
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
 
