@@ -35,7 +35,7 @@ This is my star: [lists/profile](https://github.com/stars/zhenghaoyang24/lists/p
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm+Zheng+Haoyang.%F0%9F%91%8F;You+can+call+me+Hoey.%F0%9F%98%80)](https://git.io/typing-svg)
 
 
-## [capsule-render](https://github.com/kyechan99/capsule-render) 胶囊卡片
+## [capsule-render](https://github.com/kyechan99/capsule-render)
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hoey!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
