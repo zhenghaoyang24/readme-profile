@@ -13,6 +13,10 @@ This is my star: [lists/profile](https://github.com/stars/zhenghaoyang24/lists/p
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zhenghaoyang24" alt="visitors"/>   
 </p>
 
+## [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## [github-readme-activity-graph](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhenghaoyang24&theme=dracula)](https://github.com/zhenghaoyang24/github-readme-activity-graph)
